@@ -16,7 +16,7 @@ Build a simple todo list React application that:
 
 ## Concept
 
-![sticky-concept.png](sticky-concept.png)
+![sticky-concept.png](docs/sticky-concept.png)
 
 ## Implementation
 
